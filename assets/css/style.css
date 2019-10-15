@@ -232,7 +232,6 @@ input[type=submit] {
         
     .navBarRight {
         float: right;
-        overflow: visible;
             }        
     .innerContainer {
         width: 90%;
