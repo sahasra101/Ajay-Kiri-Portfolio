@@ -34,6 +34,11 @@ header {
     display: block;
 }
 
+#indexPic {
+    width:200px;
+    height:200px;
+}
+
 .navBarRight {
     display: inline;
     background-color: white;
@@ -131,7 +136,7 @@ label {
 }
 
 input[type=text], select, textarea {
-    width: 900px;
+    width: 85%;
     margin: 15px;
     padding: 12px;
     border: 1px solid #ccc;
@@ -243,6 +248,11 @@ input[type=submit] {
         width: 250px;
         height: 250px;
       }
+    #indexPic {
+        width: 90%;
+        height: auto;
+    
+    }
 
 }
 
