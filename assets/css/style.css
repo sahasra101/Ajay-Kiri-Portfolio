@@ -169,8 +169,8 @@ input[type=submit] {
 
 #portPic0Descr, #portPic1Descr, #portPic2Descr, #portPic3Descr, #portPic4Descr, #portPic5Descr {
     position: absolute;
-    background-color: black;
-    color: white;
+    background-color: white;
+    text-decoration-color: black;
     bottom: 125px;
     width: 300px;
     text-align: center;
