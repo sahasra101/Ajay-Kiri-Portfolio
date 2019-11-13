@@ -163,11 +163,11 @@ input[type=submit] {
     height: 300px;
   }
 
-#portPic0Div, #portPic1Div, #portPic2Div, #portPic3Div, #portPic4Div, #portPic5Div {
+#portPic0Div, #portPic1Div, #portPic2Div, #portPic3Div, #portPic4Div, #portPic5Div, #portPic6Div {
     position: relative;
 }
 
-#portPic0Descr, #portPic1Descr, #portPic2Descr, #portPic3Descr, #portPic4Descr, #portPic5Descr {
+#portPic0Descr, #portPic1Descr, #portPic2Descr, #portPic3Descr, #portPic4Descr, #portPic5Descr, #portPic6Descr {
     position: absolute;
     background-color: white;
     text-decoration-color: black;
