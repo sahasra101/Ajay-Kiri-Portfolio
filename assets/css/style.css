@@ -159,8 +159,8 @@ input[type=submit] {
 .portPics {
     float: left;
     padding: 25px;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
   }
 
 #portPic0Div, #portPic1Div, #portPic2Div, #portPic3Div, #portPic4Div, #portPic5Div, #portPic6Div {
@@ -172,38 +172,13 @@ input[type=submit] {
     background-color: white;
     text-decoration-color: black;
     bottom: 125px;
-    width: 300px;
+    width: 250px;
     text-align: center;
     }
 
-#portPic0 {
-      width: 300px;
-      height: 300px;
-}
-
-#portPic1 {
-    width: 300px;
-    height: 300px;
-}
-
-#portPic2 {
-    width: 300px;
-    height: 300px;
-}
-
-#portPic3 {
-    width: 300px;
-    height: 300px;
-}
-
-#portPic4 {
-  width: 300px;
-  height: 300px;
-}
-
-#portPic5 {
-  width: 300px;
-  height: 300px;
+#portPic0, #portPic1, #portPic2, #portPic3, #portPic4, #portPic5, #portPic6  {
+      width: 250px;
+      height: 250px;
 }
 
   #emailDirect {
